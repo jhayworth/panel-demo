@@ -1,5 +1,15 @@
 # Panel Demo
 
+We will be showing off the following skills:
+* Microsoft Azure
+* Terraform
+* SSH
+* Ansible
+* Docker
+* Nginx
+* .NET Core
+* Postman
+
 This will be a 3 machine setup.
 
 2 machines will be Consul servers.
